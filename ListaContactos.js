@@ -35,6 +35,5 @@
   }
 
 //  AgregarContactos(contNuevo) 
-
 BorrarContacto(2)
 console.log(ListaContactos)
