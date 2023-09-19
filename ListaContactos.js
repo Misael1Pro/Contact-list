@@ -33,7 +33,6 @@
   function imprimircontacto(ListaContactos){
       consola.log(ListaContactos)
   }
-
 //  AgregarContactos(contNuevo) 
 BorrarContacto(2)
 console.log(ListaContactos)
